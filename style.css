@@ -53,7 +53,7 @@ display: flex;
   padding: 30px 30px 0px 150px;
   display: flex;
   /* align-items: center; */
-  justify-content: flex-end;
+  justify-content: space-between;
  
 }
 .profile-pic {
@@ -102,4 +102,11 @@ main{
 }
 .about-info{
   text-align: center;
+}
+#what-i-do-description{
+  padding: 30px 150px;
+}
+
+.skills-con{
+  display: flex;
 }
