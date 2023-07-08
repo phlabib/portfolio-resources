@@ -92,3 +92,14 @@ display: flex;
   text-align: center;
   font-size: 18px;
 }
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.about-info-con{
+  display: flex;
+  justify-content: space-around;
+}
+.about-info{
+  text-align: center;
+}
