@@ -42,6 +42,12 @@ nav a {
   background-image: url('./images/header_bg.png');
   background-repeat: no-repeat;
   background-position: bottom right;
+<<<<<<< HEAD
+=======
+display: flex;
+
+
+>>>>>>> 438144acba12c38e4be9ddc021f05515d57d3bb5
 }
 .banner {
   padding: 30px 30px 0px 150px;
